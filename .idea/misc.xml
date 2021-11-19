@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MarufN/AndroidStudioProjects/SimpleLoginApp/app/src/main/res/drawable/baseline_account_circle_24.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/MarufN/AndroidStudioProjects/SimpleLoginApp/app/src/main/res/drawable/outline_lock_24.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/MarufN/AndroidStudioProjects/SimpleLoginApp/app/src/main/res/drawable/outline_password_24.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/MarufN/AndroidStudioProjects/SimpleLoginApp/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/MarufN/AndroidStudioProjects/SimpleLoginApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/MarufN/AndroidStudioProjects/SimpleLoginApp/app/src/main/res/layout/activity_register.xml" value="0.10916919959473151" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
